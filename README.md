@@ -4,9 +4,7 @@ Your Name, yourcontact@unl.edu
 (Your teammate's contact info, if appropriate)
 
 ## Abstract
-
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
-
+Using Neuroarch to create creative arcichecture. The idea of the NeuroArch research project was, firstly, to explore the possibilities of generating new images based on existing ones, secondly, to explore the methodology of applying generative machine learning for creative tasks and design, and finally, to give a critical assessment of visual culture. I would like to use the architecture of the WP-GAN neural network to generate this images. I think it can be intersting to use deep learning to create building architecture. 
 ## Model/Data
 
 Briefly describe the files that are included with your repository:

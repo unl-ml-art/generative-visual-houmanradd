@@ -12,8 +12,8 @@ Analyzing the samples thousands of times (in NeuroArch 110,000 learning epochs),
 ## Code
 
 Your code for generating your project:
-- Python: generative_code.py
-- Jupyter notebooks: generative_code.ipynb
+
+- Jupyter notebooks: BigGAN_handson.ipynb
 
 ## Results
 t can be assumed that the generated images have a special aesthetics that makes them related to works of abstract artistic trends such as Cubism or Expressionism.
@@ -21,10 +21,7 @@ t can be assumed that the generated images have a special aesthetics that makes 
 
 
 ## Technical Notes
-
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+The essence of GAN networks is that the “generator” algorithm gradually learns to create an image in such a way that the “critic” algorithm cannot distinguish the real image from the generated one. SO, I could create a images based on the existing array, as if it were in the same collection. Additionaly,, it becomes possible to control the parameters of the generated image by changing its properties.
 
 ## Reference
 

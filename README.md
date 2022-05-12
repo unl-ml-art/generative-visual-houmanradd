@@ -16,7 +16,7 @@ Your code for generating your project:
 - Jupyter notebooks: BigGAN_handson.ipynb
 
 ## Results
-t can be assumed that the generated images have a special aesthetics that makes them related to works of abstract artistic trends such as Cubism or Expressionism.
+It can be assumed that the generated images have a special aesthetics that makes them related to works of abstract artistic trends such as Cubism or Expressionism.
 
 
 

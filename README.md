@@ -30,5 +30,7 @@ Any implementation details or notes we need to repeat your work.
 
 References to any papers, techniques, repositories you used:
 https://medium.com/geoai/3d-buildings-from-imagery-with-ai-fbbc1852e4dd
+
 https://machinelearningmastery.com/a-gentle-introduction-to-the-biggan/
+
 https://towardsdatascience.com/neuroarch-ai-imagery-eng-1b9e1d11944a
